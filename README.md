@@ -110,7 +110,7 @@ python legacy.py \
     --source=https://nvlabs-fi-cdn.nvidia.com/stylegan2/networks/stylegan2-cat-config-f.pkl \
     --dest=stylegan2-cat-config-f.pkl
 ```
-**Example Style Mixing For Plant**: In fact, the model for generating plant disease images was trained and the features of the generated plant disease images were mixed for each matrix. Here is a style mix image of the healthy image in the row image and the  gummy stem blight in the column image.
+**Example Style Mixing for plant**: In fact, the model for generating plant disease images was trained and the features of the generated plant disease images were mixed for each matrix. Here is a style mix image of the healthy image in the row image and the  gummy stem blight in the column image.
 
 <img src="results/test/grid.png" width="600">
 
